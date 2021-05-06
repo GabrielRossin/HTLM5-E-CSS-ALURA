@@ -1,0 +1,20 @@
+ body
+ {
+ 	background: #CCCCCC;
+ }
+
+ p
+ {
+    text-align: center;
+ }
+
+em strong
+ {
+ 	color: rgb(255,0,0);
+ 	/*
+ 		color: red;
+ 		color: #FF0000;
+ 	*/
+ }
+
+
