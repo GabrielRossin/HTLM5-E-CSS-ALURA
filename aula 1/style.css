@@ -46,7 +46,7 @@ nav a:hover /*adiciona o movimento quando o mause passa*/
 
 {
 	width: 940px;
-	margin: 0 auto;
+	margin: auto auto;
 	padding: 50px 0;
 }
 
@@ -121,6 +121,13 @@ main
 form
 {
 	margin: 40px 0;
+}
+
+
+form label {
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
 }
 
 form label , form p;
